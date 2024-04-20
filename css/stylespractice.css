@@ -1,0 +1,17 @@
+h1 {font-family:Georgia, 'Times New Roman', Times, serif; color:white}
+ h2, h3, h4, h5 {font-family: Georgia, 'Times New Roman', Times, serif; color: white;}
+
+p {font-family: Georgia, 'Times New Roman', Times, serif; color:white}
+
+body {background-color: darkolivegreen; color:white}
+
+a {font-family: Georgia, 'Times New Roman', Times, serif; color: white; text-decoration: none;}
+a:hover {font-size: larger; font-weight: bold; }
+
+li {font-family: Georgia, 'Times New Roman', Times, serif; color: whitesmoke;}
+
+.underline {text-decoration: underline;}
+
+.listitalics {font-style: italic;}
+
+img {border: 10px solid #555}
